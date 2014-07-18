@@ -40,6 +40,18 @@ or with an array of start/end IP addresses:
 These two are equivalent, but the former is a bit faster, and easier to read 
 The latter is convenient if your range is difficult to express using a netmask.
 
+### Whitelisted Articles
+
+You may want to use anon to automatially tweet when it notices edits to a 
+particular set of pages from a particular language Wikipedia. See the 
+provided `config.json.template` for an example.
+
+### Multiple Accounts
+
+You should notice that `accounts` in the config.json is an array. If you would 
+like to have a single anon process monitor different IP ranges or whitelisted
+pages, just add them to the list.
+
 ### Debugging
 
 If you would like to test without tweeting you can run anon with the 
