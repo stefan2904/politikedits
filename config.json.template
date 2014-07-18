@@ -21,7 +21,7 @@
         ]
       },
       "whitelist": {
-        "en": {
+        "English Wikipedia": {
           "Sherrod Brown": true,
           "Maria Cantwell": true,
           "Ben Cardin": true,
