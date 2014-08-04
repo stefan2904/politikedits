@@ -1,0 +1,52 @@
+{
+  "nick": "yourIrcNickHere",
+  "accounts": [
+    {
+      "consumer_key": "",
+      "consumer_secret": "",
+      "access_token": "",
+      "access_token_secret": "",
+      "template": "{{page}} wurde anonym aus dem Netz {{name}} bearbeitet {{&url}}",
+      "ranges": {
+        "des Parlaments": [
+          "161.110.0.0/16"
+        ],
+        "des BMI": [
+          "78.41.148.0/23"
+        ],
+        "des BKA": [
+          "78.41.144.0/24",
+          "78.41.145.0/24",
+          "78.41.146.0/23",
+          "78.41.150.0/23"
+        ],
+        "Bundesministerium fuer europaeische und internationale Angelegenheiten": [
+          "194.232.79.192/27"
+        ],
+        "Bundesministerium fuer Gesundheit": [
+          "194.48.236.0/22"
+        ],
+        "Bundesministerium fuer Justiz": [
+          "85.158.226.32/27"
+        ],
+        "Bundesministerium fuer Verkehr, Innovation und Technologie": [
+          "193.171.63.224/28"
+        ],
+        "Bundesministerium fuer Wirtscha8ft und Arbeit": [
+          "85.158.226.64/26"
+        ],
+        "Bundesministerium fuer Finanzen": [
+          "85.158.226.0/27"
+        ],
+        "Bundesministerium fuer Landesverteidigung": [
+          ["193.171.152.0", "193.171.154.255"]
+        ],
+        "Bundesministerium fuer Land- und Forstwirtschaft": [
+          ["194.37.4.0", "194.37.55.255"]
+        ]
+      } 
+    }
+  ]
+}
+
+
