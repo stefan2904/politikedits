@@ -20,28 +20,28 @@
           "78.41.146.0/23",
           "78.41.150.0/23"
         ],
-        "Bundesministerium fuer europaeische und internationale Angelegenheiten": [
+        "des BMEIA": [
           "194.232.79.192/27"
         ],
-        "Bundesministerium fuer Gesundheit": [
+        "des BMG": [
           "194.48.236.0/22"
         ],
-        "Bundesministerium fuer Justiz": [
+        "des BMJ": [
           "85.158.226.32/27"
         ],
-        "Bundesministerium fuer Verkehr, Innovation und Technologie": [
+        "des BMVIT": [
           "193.171.63.224/28"
         ],
-        "Bundesministerium fuer Wirtscha8ft und Arbeit": [
+        "des BMFWF": [
           "85.158.226.64/26"
         ],
-        "Bundesministerium fuer Finanzen": [
+        "des BMF": [
           "85.158.226.0/27"
         ],
-        "Bundesministerium fuer Landesverteidigung": [
+        "des BMLV": [
           ["193.171.152.0", "193.171.154.255"]
         ],
-        "Bundesministerium fuer Land- und Forstwirtschaft": [
+        "des BMLFUW": [
           "194.37.72.0/21"
         ]
       } 
